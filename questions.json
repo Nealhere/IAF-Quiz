@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "What is the official motto of the Indian Air Force?",
+    "options": [
+      "Touch the sky with glory",
+      "Per ardua ad astra",
+      "Forever vigilant",
+      "Sky is ours"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which aircraft is the primary multi-role fighter in IAF inventory?",
+    "options": [
+      "HAL Tejas",
+      "Sukhoi Su-30MKI",
+      "MiG-21",
+      "Mirage 2000"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which aircraft is used for heavy strategic transport by IAF?",
+    "options": [
+      "C-130J Super Hercules",
+      "C-17 Globemaster III",
+      "An-32",
+      "HS-748 Avro"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which aircraft performs aerial refuelling for IAF?",
+    "options": [
+      "Ilyushin Il-78",
+      "C-17 Globemaster",
+      "An-32",
+      "Astra"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which missile is an air-to-air missile used by IAF fighters?",
+    "options": [
+      "Astra",
+      "Prithvi",
+      "Agni",
+      "BrahMos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does 'MiG' stand for?",
+    "options": [
+      "Mikoyan and Gurevich",
+      "Military Interceptor Group",
+      "Multi-role Interceptor Group",
+      "Mikhail Gogolev"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which institution is the premier training establishment for IAF fighter pilots?",
+    "options": [
+      "Air Force Academy, Dundigal",
+      "TACDE",
+      "College of Air Warfare",
+      "OTA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which helicopter is indigenous and used by IAF for utility roles?",
+    "options": [
+      "HAL Dhruv",
+      "Mi-17",
+      "Chetak",
+      "Chinook"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which is the IAF aerobatic team famed for precision displays?",
+    "options": [
+      "Surya Kiran",
+      "Sarang",
+      "Thunderbolts",
+      "Blue Eagles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which radar provides AEW&C capability to IAF?",
+    "options": [
+      "EL/M-2084",
+      "Phalcon",
+      "AKASH",
+      "PESA"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Sukhoi Su-30MKI?",
+    "options": [
+      "Multirole air superiority fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Tejas?",
+    "options": [
+      "Light combat aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mirage 2000?",
+    "options": [
+      "Multirole fighter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the MiG-21?",
+    "options": [
+      "Interceptor",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-17 Globemaster III?",
+    "options": [
+      "Strategic transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the An-32?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the C-130J Super Hercules?",
+    "options": [
+      "Tactical transport",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Ilyushin Il-78?",
+    "options": [
+      "Aerial refueller",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the HAL Dhruv?",
+    "options": [
+      "Utility helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Mi-17?",
+    "options": [
+      "Transport helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Chinook?",
+    "options": [
+      "Heavy-lift helicopter",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Jaguar?",
+    "options": [
+      "Ground attack aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Hawker Siddeley HS-748?",
+    "options": [
+      "Transport aircraft",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Boeing P-8I?",
+    "options": [
+      "Maritime patrol",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary role of the Astra?",
+    "options": [
+      "Beyond visual range AAM",
+      "Transport",
+      "Trainer",
+      "Reconnaissance"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which city hosts a major IAF base: Agra is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which city hosts a major IAF base: Gwalior is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which city hosts a major IAF base: Srinagar is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which city hosts a major IAF base: Kalaikunda is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which city hosts a major IAF base: Jodhpur is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which city hosts a major IAF base: Lohegaon is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which city hosts a major IAF base: Pathankot is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which city hosts a major IAF base: Shillong is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which city hosts a major IAF base: Ambala is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which city hosts a major IAF base: Hindon is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which city hosts a major IAF base: Bareilly is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which city hosts a major IAF base: Gandhinagar is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which city hosts a major IAF base: Jalahalli is best known for which role?",
+    "options": [
+      "Fighter base",
+      "Transport hub",
+      "Training base",
+      "Logistics base"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "No. 1 Squadron is commonly referred to as which type of squadron?",
+    "options": [
+      "Fighter squadron",
+      "Transport squadron",
+      "Helicopter squadron",
+      "Trainer squadron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "No. 17 Squadron is commonly referred to as which type of squadron?",
+    "options": [
+      "Fighter squadron",
+      "Transport squadron",
+      "Helicopter squadron",
+      "Trainer squadron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "No. 7 Squadron is commonly referred to as which type of squadron?",
+    "options": [
+      "Fighter squadron",
+      "Transport squadron",
+      "Helicopter squadron",
+      "Trainer squadron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "No. 20 Squadron is commonly referred to as which type of squadron?",
+    "options": [
+      "Fighter squadron",
+      "Transport squadron",
+      "Helicopter squadron",
+      "Trainer squadron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "No. 45 Squadron is commonly referred to as which type of squadron?",
+    "options": [
+      "Fighter squadron",
+      "Transport squadron",
+      "Helicopter squadron",
+      "Trainer squadron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "No. 47 Squadron is commonly referred to as which type of squadron?",
+    "options": [
+      "Fighter squadron",
+      "Transport squadron",
+      "Helicopter squadron",
+      "Trainer squadron"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flying Officer in IAF rank structure?",
+    "options": [
+      "Flight Lieutenant",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Pilot Officer in IAF rank structure?",
+    "options": [
+      "Flying Officer",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Flight Lieutenant in IAF rank structure?",
+    "options": [
+      "Squadron Leader",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which rank is immediately above Squadron Leader in IAF rank structure?",
+    "options": [
+      "Wing Commander",
+      "Wing Commander",
+      "Squadron Leader",
+      "Flight Lieutenant"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: 1971 war?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Kargil conflict?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Indo-Pakistani War of 1965?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Operation Pawan?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Operation Meghdoot?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: 1971 war?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Kargil conflict?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Indo-Pakistani War of 1965?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Operation Pawan?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: Operation Meghdoot?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which conflict did the IAF play a notable role: 1971 war?",
+    "options": [
+      "1939-1945",
+      "1971 war",
+      "1999 Kargil",
+      "1965 war"
+    ],
+    "answer": 1
+  }
+]
